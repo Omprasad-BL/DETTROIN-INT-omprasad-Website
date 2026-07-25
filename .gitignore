@@ -13,7 +13,15 @@ dist-ssr
 *.local
 
 
-
+src/components/ui/LiveStream.jsx
+src/components/ui/TypingEffect.jsx
+constants.js
+bin.js
+src/assets/b.jpg
+src/assets/hero.png
+src/assets/react.svg
+src/assets/vite.svg
+constants.js
 
 bin.js
 # Editor directories and files
