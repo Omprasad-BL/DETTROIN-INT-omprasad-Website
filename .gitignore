@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-/src/components/sections/layout/RootLayout.jsx
+/src/components/sections/layout/
 /src/components/sections
 bin.js
 # Editor directories and files
