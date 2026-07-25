@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-/src/components/sections/About.jsx
+
 /src/components/sections/Features.jsx
 
 bin.js
