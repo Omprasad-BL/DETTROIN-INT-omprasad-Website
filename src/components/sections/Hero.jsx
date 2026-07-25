@@ -2,7 +2,6 @@
 import { motion } from 'framer-motion';
 import { PlayCircle } from 'lucide-react';
 import Section from '../ui/Section';
-import TypingEffect from '../ui/TypingEffect'; 
 import Sample from '../../assets/sample.jpg';
 import Wm from '../../assets/klogo.png'
 export default function Hero() {
@@ -113,7 +112,6 @@ export default function Hero() {
       >
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-[4.2rem] font-extrabold tracking-tight mb-5 leading-tight text-white drop-shadow-md">
           Let's explore the <span className="text-emerald-400 drop-shadow-[0_0_15px_rgba(16,185,129,0.3)]">limitless</span><br className="hidden sm:inline" />
-          {/* <TypingEffect /> */}
           possibilities of knowledge
         </h1>
         
