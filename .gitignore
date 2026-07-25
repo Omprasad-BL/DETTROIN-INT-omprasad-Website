@@ -12,8 +12,9 @@ dist
 dist-ssr
 *.local
 
-/src/components/sections/layout/
-/src/components/sections
+/src/components/sections/About.jsx
+/src/components/sections/Features.jsx
+/src/components/sections/Stats.jsx
 bin.js
 # Editor directories and files
 .vscode/*
