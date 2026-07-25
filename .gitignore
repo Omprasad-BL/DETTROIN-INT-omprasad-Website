@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 
-/src/components/sections/Features.jsx
+
 
 bin.js
 # Editor directories and files
